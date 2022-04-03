@@ -5,3 +5,4 @@
 # Take the sword to gain a speed boost
 # Press E to exit out of the pop up message at the throne
 # Press 1, 2, 3, 4 for a, b, c, d answer choices respectively.
+# Once you defeated all the siblings, go back to the throne to claim your spot.
