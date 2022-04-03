@@ -7,6 +7,8 @@ To run the program, download jdk-12(required) and open the Jar application. Down
 
 For testing, we used a Windows 10 x64 bit operating system. Thus, this is a requirement to run the program.
 
+ENTER key to enter the game 
+
 Use WSAD to control your character
 
 Take the sword to gain a speed boost.
