@@ -3,7 +3,9 @@ Thai Truong, Betty Liu, Jeffrey Deng
 
 4/01/2022
 
-To run the program, download jdk-12 and open the Jar application.  
+To run the program, download jdk-12(required) and open the Jar application. 
+
+For testing, we used a Windows 10 x64 bit operating system. Thus, this is a requirement to run the program.
 
 Use WSAD to control your character
 
